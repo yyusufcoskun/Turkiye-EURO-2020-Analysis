@@ -14,7 +14,7 @@ The analysis focuses on various aspects of the Turkish team's performance, inclu
 
 ## Data
 
-The analysis uses data from the UEFA EURO 2020 tournament, specifically the "euro2020data_combined.csv" dataset, which contains detailed match, player, and event information.
+The analysis uses data from the UEFA EURO 2020 tournament, taken from StatsBomb's EURO 2020 datasets, which contains detailed match, player, and event information.
 
 ## Requirements
 
