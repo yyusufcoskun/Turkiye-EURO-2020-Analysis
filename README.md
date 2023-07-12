@@ -30,7 +30,3 @@ You can install these dependencies by running the command: `pip install -r requi
 ## Contribution
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/yyusufcoskun/Turkiye-EURO-2020-Analysis/blob/main/LICENSE).
